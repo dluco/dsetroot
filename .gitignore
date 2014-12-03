@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+dsetroot
+
+# Ignore objects and archives
+*.[oa]
+
+# Ignore swap files
+*.swp
