@@ -2,7 +2,8 @@
 *.[oa]
 
 # Ignore swap files
-*.{swp,swap}
+*.swp
+*.swap
 *~
 
 # Ignore log files
