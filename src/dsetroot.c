@@ -40,7 +40,7 @@ int screen;
 /* Print out program usage */
 void usage(char *commandline)
 {
-	printf("dsetroot - yet another wallpaper application\n"
+	printf("dsetroot - simple wallpaper application for X\n"
 		   "\n"
 		   "Usage:\n"
 		   "  %s [OPTION...]\n"
